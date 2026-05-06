@@ -1,0 +1,775 @@
+{
+    "DirectDeposit": "Direkteinzahlung",
+  "Getmorewithearlydirectdeposit": "Mehr Vorteile mit früher Direkteinzahlung",
+  "depositDescription": "Zahlen Sie Ihr gesamtes oder einen Teil Ihres Gehalts ein – für eine schnelle, einfache und sichere Verwaltung Ihrer Finanzen.",
+  "2": "2. Anmeldung erforderlich. Das Konto muss in gutem Zustand sein und eine Chip-fähige Debitkarte muss aktiviert sein, um sich anzumelden. Anfängliche und fortlaufende qualifizierte Direkteinzahlungen sind für den Überziehungsschutz erforderlich. Zusätzliche Kriterien können gelten und Ihre Berechtigung sowie Ihren Überziehungsschutz beeinflussen. Überziehungen werden nach unserem Ermessen ausgeglichen. Überziehungsgebühren können dazu führen, dass Ihr Konto einen höheren negativen Saldo aufweist als Ihr Überziehungsschutz. Für jede berechtigte Kauftransaktion, die Ihr Konto ins Minus bringt, kann eine Gebühr von 15 $ anfallen. Der Kontostand muss innerhalb von 24 Stunden nach Autorisierung der ersten überziehenden Transaktion mindestens auf 0 $ ausgeglichen werden, um eine Gebühr zu vermeiden. Der Überziehungsschutz ist nur für berechtigte Girokonten verfügbar. Melden Sie sich in Ihrem Konto an und prüfen Sie Ihre Kontovereinbarung, um die Verfügbarkeit dieser Funktion zu überprüfen.",
+  "earlyPayTitle": "Erhalten Sie Ihr Gehalt bis zu <1>2 Tage früher</1><2>1</2>",
+  "earlyPaySubtitle": "Staatliche Leistungen bis zu 4 Tage früher",
+  "overdraftTitle": "Überziehungsschutz bis zu 200 $ freischalten<1>2</1>",
+  "overdraftSubtitle": "Mit Anmeldung und qualifizierter Direkteinzahlung",
+  "Messageanddataratesmayapply": "Es können Nachrichten- und Datengebühren anfallen",
+  "directDepositAlerts": "Erhalten Sie Benachrichtigungen bei Direkteinzahlungen<1>3</1>",
+  "directDepositInstructions": "Ganz einfach! Geben Sie Ihrem Lohn- oder Leistungsanbieter einfach Ihre Konto- und Bankleitzahl, indem Sie Ihre Informationen schnell über die untenstehenden Schaltflächen per E-Mail senden.",
+  "1": "1. Die frühzeitige Verfügbarkeit der Direkteinzahlung hängt vom Zeitpunkt der Zahlungsanweisungen des Zahlers ab und es können Betrugspräventionsbeschränkungen gelten. Daher kann die Verfügbarkeit oder der Zeitpunkt der frühzeitigen Direkteinzahlung von Abrechnungszeitraum zu Abrechnungszeitraum variieren. Der bei Ihrem Arbeitgeber oder Leistungsanbieter hinterlegte Name und die Sozialversicherungsnummer müssen exakt mit Ihrem Konto übereinstimmen, andernfalls wird die Einzahlung abgelehnt.",
+  "federalBenefitsInfo": "Für staatliche Leistungen der Bundesregierung registrieren Sie sich unter <1>https://godirect.gov/gpw/contactAgency/</1> (godirect.gov in Bing) und rufen Sie die entsprechende Behördennummer an. Wenden Sie sich an Ihre zuständige staatliche Zahlstelle, um die Direkteinzahlung für Ihre staatlichen Leistungen einzurichten. Diese App-Seite enthält einen Hyperlink zu godirect.gov. Die SouthVent Community Credit Union stellt die auf godirect.gov verfügbaren Produkte, Dienstleistungen oder Website-Inhalte nicht bereit und ist dafür nicht verantwortlich. Die Datenschutzrichtlinie der West Vent Trust Bank gilt nicht für godirect.gov; bitte lesen Sie die dortigen Datenschutzhinweise für weitere Informationen.",
+  "3": "Es können Nachrichten- und Datengebühren anfallen.",
+
+    "ACCOUNTTYPE": "KONTOART:",
+  "BANKNAME": "BANKNAME:",
+  "BANKADDRESS": "BANKANSCHRIFT",
+    "RecipientAddress": "Empfängeradresse",
+  "IBAN": "IBAN",
+  "SWIFTBIC": "SWIFT / BIC",
+  
+  "Card": "Karten",
+  "Grand&aids": "Zuschüsse & Beihilfen",
+  "Contactss": "Kontakt",
+  "OpenAccounts": "Konto eröffnen",
+  "Login": "Anmelden",
+  "Services": "Dienstleistungen",
+  "SouthVentCommunityCreditUnion": "SouthVent Community Credit Union",
+  "BankingDifferently": "Wir machen Banking anders. Wir glauben, dass Menschen an erster Stelle stehen und dass jeder Schritt eine großartige Erfahrung verdient.",
+  "OpenAccountToday": "Heute Konto eröffnen",
+  "LoginToBanking": "Zum Banking einloggen",
+  "RoutingNumber": "ROUTING #",
+  "BranchHours": "FILIALZEITEN",
+  "MonFri": "Mo-Fr: 9:00-17:00 Uhr",
+  "SatHours": "Sa: 9:00-13:00 Uhr",
+ "About": "Über",
+ "LoansCredit": "Kredite & Darlehen",
+  "Home": "Home",
+  "Support247": "24/7 SUPPORT",
+  "SupportPhone": "1-800-BANKING",
+  "AlwaysHereToHelp": "Immer für Sie da",
+  "SouthVentCommunityCreditUnionRates": "SouthVent Community Credit Union Zinssätze",
+  "SouthVentCommunityCreditUnionMemberCare": "SouthVent Community Credit Union Kundenservice",
+  "DiscoverCompetitiveRates": "Entdecken Sie wettbewerbsfähige Zinssätze, die Ihr Geld schneller wachsen lassen",
+  "APY": "APY*",
+  "HighYieldSavingsRate": "Hochzins-Sparrate",
+  "Featured": "HERVORGEHOBEN",
+  "Savings": "SPAREN",
+  "Credit": "KREDIT",
+  "Mortgage": "IMMOBILIENKREDIT",
+  "AnnualPercentageYield": "*Jährlicher prozentualer Ertrag",
+  "RatesSubjectToChange": "Zinssätze können sich ändern. Es gelten die Bedingungen.",
+  "OurServices": "Unsere Dienstleistungen",
+  "HowCanWeHelpYouToday": "Wie können wir Ihnen heute helfen?",
+  "ComprehensiveBankingSolutions": "Umfassende Banklösungen, die auf Ihre Bedürfnisse zugeschnitten sind",
+  "DepositAccounts": "Einlagenkonten",
+  "SecureYourMoney": "Sichern Sie Ihr Geld mit unseren hochverzinslichen Spar- und Girokonten, die auf Wachstum ausgelegt sind.",
+  "CreditCards": "Kreditkarten",
+  "FindPerfectCreditCard": "Finden Sie die perfekte Kreditkarte für Ihren Lebensstil und Ihre Ausgabengewohnheiten mit wettbewerbsfähigen Zinssätzen.",
+  "Loans": "Kredite",
+  "GetCompetitiveRates": "Erhalten Sie wettbewerbsfähige Zinssätze für Privat-, Auto- und Immobilienkredite, die auf Ihre finanziellen Ziele zugeschnitten sind.",
+  "WealthRetire": "Vermögen & Ruhestand",
+  "PlanForFuture": "Planen Sie Ihre Zukunft mit unseren Experten für Investitionen und Altersvorsorge.",
+  "AboutSouthVentCommunityCreditUnion": "Über die SouthVent Community Credit Union",
+  "LearnAboutOurCommitment": "Erfahren Sie mehr über unser Engagement für exzellenten Bankservice und die Unterstützung der Gemeinschaft.",
+  "Get200CheckingAccount": "Erhalten Sie $200* mit einem Girokonto, das für Sie gebaut wurde",
+  "StartBuildingYourFinancialStrength": "Beginnen Sie mit dem Aufbau Ihrer finanziellen Stärke",
+  "ForLimitedTimeGet200": "Für kurze Zeit erhalten Sie $200, wenn Sie ein neues Konto eröffnen, das Ihnen hilft, Ihre finanziellen Ziele zu erreichen.",
+  "NoMinimumBalanceRequired": "Kein Mindestguthaben erforderlich",
+  "FreeOnlineMobileBanking": "Kostenloses Online- und Mobile-Banking",
+  "Support24/7": "Kundensupport rund um die Uhr",
+  "OpenAccountNow": "Jetzt Konto eröffnen",
+  "MemberFocusedBanking": "Mitgliederorientiertes Banking",
+  "BuildingStrengthTogether": "Gemeinsam Stärke aufbauen",
+  "OurCommitmentToHelpingMembers": "Die SouthVent Community Credit Union ist eine Full-Service-Kreditgenossenschaft, die darauf aufgebaut ist, unseren Mitgliedern in jedem Schritt ihrer finanziellen Reise zu helfen.",
+  "CompetitiveRates": "Wettbewerbsfähige Zinssätze",
+  "BetterRatesOnSavingsLoans": "Bessere Zinssätze für Sparanlagen, Kredite und Kreditkarten, die darauf ausgelegt sind, Ihr finanzielles Wachstum zu maximieren.",
+  "MemberFocused": "Mitgliederorientiert",
+  "OwnedByMembers": "Wir gehören unseren Mitgliedern, nicht Aktionären. Ihr Erfolg hat für uns Priorität.",
+  "CommunityCommitted": "Gemeinschaftsorientiert",
+  "SupportingLocalCommunities": "Unterstützung lokaler Gemeinschaften und Anliegen, die unseren Mitgliedern wichtig sind.",
+  "HearFromOurCustomers": "Erfahrungen unserer Kunden",
+  "ImpressedWithCustomerService": "Ich bin beeindruckt vom Kundenservice und der schnellen Auszahlung.",
+  "SarahMorris": "Sarah Morris",
+  "VerifiedCustomer": "Verifizierter Kunde",
+  "ExcellentServiceAndRates": "Ausgezeichneter Service und wettbewerbsfähige Zinssätze. Sehr empfehlenswert!",
+  "JohnDavis": "John Davis",
+  "BusinessOwner": "Geschäftsinhaber",
+  "MobileAppAndSupportTopNotch": "Die mobile App ist fantastisch und der Kundensupport erstklassig.",
+  "EmilyJohnson": "Emily Johnson",
+  "PersonalBanking": "Privatkundenbanking",
+  "BankingHours": "Banköffnungszeiten",
+  "Available24/7": "Rund um die Uhr verfügbar",
+  "CallSupport": "Anruf: 1-800-BANKING",
+  "InternationalPhone": "International: +1 (380) 219 - 7935",
+  "EmailSupport": "E-Mail-Support",
+  "ResponseWithin24hrs": "Antwort innerhalb von 24 Stunden",
+  "EmailSupportAddress": "info@southventcommunity.org",
+  "VisitUs": "Besuchen Sie uns",
+  "BankingStreet": "Banking Street 123",
+  "FinancialDistrict": "Finanzviertel",
+
+
+
+  "OurStory": "Unsere Geschichte",
+  "AboutSouthVent": "Über die SouthVent Community Credit Union",
+  "TrustedBankingPartner": "Vertrauenswürdiger Bankpartner, der sich seit unserer Gründung Ihrem finanziellen Erfolg verpflichtet hat",
+  "OurMission": "Unsere Mission",
+  "MissionParagraph1": "Bei der SouthVent Community Credit Union setzen wir uns dafür ein, Einzelpersonen, Familien und Unternehmen zu befähigen, ihre finanziellen Ziele durch innovative Banklösungen, personalisierten Service und unerschütterliches Engagement für Exzellenz zu erreichen.",
+  "MissionParagraph2": "Wir glauben, dass Banking einfach, sicher und für alle zugänglich sein sollte. Deshalb investieren wir kontinuierlich in Technologie und Schulungen, um unseren Kunden das bestmögliche Erlebnis zu bieten.",
+  "OurCoreValues": "Unsere Kernwerte",
+  "ValuesGuideline": "Diese Werte leiten alles, was wir tun, und prägen unser Engagement gegenüber unseren Kunden und der Gemeinschaft",
+  "TrustSecurity": "Vertrauen & Sicherheit",
+  "TrustSecurityDescription": "Ihre finanzielle Sicherheit hat für uns oberste Priorität, mit branchenführenden Schutzmaßnahmen.",
+  "InnovationDescription": "Wir nutzen modernste Technologie, um zeitgemäße Banklösungen anzubieten.",
+  "CustomerCare": "Kundendienst",
+  "CustomerCareDescription": "Personalisierter Service und Unterstützung, wann immer Sie sie benötigen, auf die von Ihnen bevorzugte Weise.",
+  "Community": "Gemeinschaft",
+  "CommunityDescription": "Unterstützung lokaler Gemeinschaften und Beitrag zum wirtschaftlichen Wachstum.",
+  "OurJourney": "Unsere Reise",
+  "JourneySubtitle": "Von bescheidenen Anfängen zu einer vertrauenswürdigen Finanzinstitution",
+  "Founded": "Gegründet",
+  "TheBeginning": "Der Anfang",
+  "BeginningDescription": "Die SouthVent Community Credit Union wurde mit einer einfachen Mission gegründet: ehrliche, verlässliche Bankdienstleistungen für unsere lokale Gemeinschaft bereitzustellen.",
+  "OnlineBankingLaunch": "Start des Online-Bankings",
+  "OnlineBankingDescription": "Wir haben die digitale Revolution angenommen und unsere erste Online-Banking-Plattform gestartet, um Kunden rund um die Uhr zu bedienen.",
+  "DigitalEra": "Digitale Ära",
+  "MobileBankingRevolution": "Mobile Banking-Revolution",
+  "MobileBankingDescription": "Start unserer preisgekrönten mobilen App, die Banking überall und jederzeit zugänglich macht.",
+  "LeadingTheFuture": "Die Zukunft gestalten",
+  "LeadingDescription": "Wir innovieren weiter mit KI-gestützten Diensten, fortschrittlicher Sicherheit und nachhaltigen Bankpraktiken.",
+  "Today": "Heute",
+  "Innovation": "Innovation",
+  "ByTheNumbers": "In Zahlen",
+  "GrowthReflectsTrust": "Unser Wachstum spiegelt das Vertrauen wider, das unsere Kunden in uns setzen",
+  "ActiveCustomers": "Aktive Kunden",
+  "AssetsUnderManagement": "Vermögen unter Verwaltung",
+  "BranchLocations": "Filialstandorte",
+  "UptimeGuarantee": "Verfügbarkeitsgarantie",
+  "ReadyToJoinOurFamily": "Bereit, unserer Familie beizutreten?",
+  "JoinFamilySubtitle": "Erleben Sie den Unterschied beim Banking mit einem vertrauenswürdigen Partner, der Ihren finanziellen Erfolg an erste Stelle setzt.",
+  "OpenAccount": "Konto eröffnen",
+
+
+
+  
+  "GetInTouch": "Kontakt aufnehmen",
+  "ContactUs": "Kontaktieren Sie uns",
+  "HereToHelpWithBankingNeeds": "Wir sind hier, um Ihnen bei all Ihren Bankangelegenheiten zu helfen. Kontaktieren Sie uns jederzeit.",
+  "SendUsAMessage": "Senden Sie uns eine Nachricht",
+  "FullName": "Vollständiger Name",
+  "EmailAddress": "E-Mail-Adresse",
+  "Subject": "Betreff",
+  "Message": "Nachricht",
+  "WriteYourMessageHere": "Schreiben Sie hier Ihre Nachricht...",
+  "SendMessage": "Nachricht senden",
+  "QuestionsAboutServices": "Haben Sie Fragen zu unseren Dienstleistungen? Benötigen Sie Hilfe mit Ihrem Konto? Unser Team steht bereit, um Sie zu unterstützen.",
+  "Available247": "Rund um die Uhr verfügbar",
+  "ResponseWithin24Hours": "Antwort innerhalb von 24 Stunden",
+  "123BankingStreet": "123 Banking Street",
+  "NewYorkAddress": "New York, NY 10001",
+  "SunClosed": "So: Geschlossen",
+  "FindOurLocations": "Finden Sie unsere Standorte",
+  "VisitOurBranches": "Besuchen Sie eine unserer praktischen Filialen",
+  
+  "BuildingFinancialStrength": "Gemeinsam finanzielle Stärke aufbauen mit personalisierten Banklösungen für jedes Mitglied. Ihr vertrauenswürdiger Partner für finanzielles Wachstum.",
+  "QuickLinks": "Schnellzugriff",
+  "AboutUs": "Über uns",
+  "Service": "Service",
+  "GrantsAndAids": "Zuschüsse und Hilfen",
+  "BusinessBanking": "Geschäftsbanking",
+  "LoansAndCredit": "Kredite & Finanzierung",
+  "Cards": "Karten",
+  "MemberService": "Mitglieder-Service",
+  "MobileApp": "Mobile App",
+  "ATMLocations": "Geldautomaten-Standorte",
+  "SecurityCenter": "Sicherheitszentrum",
+  "AllRightsReserved": "Alle Rechte vorbehalten.",
+  
+  "SSL256Bit": "256-Bit SSL",
+  
+  "Accessibility": "Barrierefreiheit",
+  "Sitemap": "Sitemap",
+
+
+
+
+
+  
+  "WireTransfers": "Überweisungen",
+  "AccountReconciliation": "Kontenabstimmung",
+  "BusinessCreditCards": "Geschäftskreditkarten",
+  "BuildBusinessCredit": "Geschäftskredit aufbauen und gleichzeitig Belohnungen für alltägliche Ausgaben erhalten.",
+  "CashbackRewards": "Cashback-Belohnungen",
+  "ExpenseTracking": "Ausgabenverfolgung",
+  "EmployeeCards": "Mitarbeiterkarten",
+  "WhyBusinessesChooseUs": "Warum Unternehmen uns wählen",
+  "WeUnderstandTheChallenges": "Wir verstehen die einzigartigen Herausforderungen, denen Unternehmen gegenüberstehen, und bieten maßgeschneiderte Lösungen.",
+  "DedicatedSupport": "Engagierter Support",
+  "PersonalRelationshipManagers": "Persönliche Relationship Manager für Ihr Unternehmen",
+  "DigitalBanking": "Digitales Banking",
+  "AdvancedBankingPlatforms": "Fortschrittliche Online- und Mobile-Banking-Plattformen",
+  "FinancialInsights": "Finanzielle Einblicke",
+  "DetailedReportingAndAnalytics": "Detaillierte Berichts- und Analysetools",
+  "SecurityFirst": "Sicherheit zuerst",
+  "EnterpriseGradeSecurity": "Unternehmenssicherheit für alle Transaktionen",
+  "ReadyToBankWithUs": "Bereit, mit uns zu bankieren?",
+  "LetsDiscussHowWeCanSupportYourBusiness": "Lassen Sie uns besprechen, wie wir das Wachstum und den finanziellen Erfolg Ihres Unternehmens unterstützen können",
+  "OpenBusinessAccount": "Geschäftskonto eröffnen",
+
+  "ForBusinesses": "Für Unternehmen",
+  "BusinessBankingServices": "Geschäftsbanking-Dienstleistungen",
+  "ComprehensiveFinancialServices": "Umfassende Finanzdienstleistungen",
+  "BusinessBankingSolutions": "Geschäftsbanking-Lösungen",
+  "BusinessChecking": "Geschäftskonto",
+  "BusinessSavings": "Geschäftssparkonto",
+  "BusinessLoans": "Unternehmenskredite",
+  "MerchantServices": "Händlerdienste",
+  "CashManagement": "Cash-Management",
+
+
+
+
+
+  
+  "FinancialAssistance": "Finanzielle Unterstützung",
+  "GrantsAndFinancialAid": "Zuschüsse & Finanzhilfen",
+  "SupportingYourDreams": "Unterstützung Ihrer Träume mit zugänglichen Finanzierungsmöglichkeiten und Finanzhilfeprogrammen",
+  "AvailableGrantPrograms": "Verfügbare Zuschussprogramme",
+  "ExploreGrantPrograms": "Entdecken Sie unsere umfassenden Zuschussprogramme, die auf verschiedene finanzielle Bedürfnisse zugeschnitten sind",
+  "SmallBusinessGrant": "Kleinunternehmenszuschuss",
+  "UpToFunding": "Bis zu 50.000 $ Finanzierung für Unternehmensgründungen und Expansionsprojekte.",
+  "NoCollateralRequired": "Keine Sicherheiten erforderlich",
+  "FlexibleRepaymentTerms": "Flexible Rückzahlungsbedingungen",
+  "BusinessMentorshipIncluded": "Unternehmensmentoring inklusive",
+  "LearnMore": "Mehr erfahren",
+  "EducationGrant": "Bildungszuschuss",
+  "FinancialAssistanceForEducation": "Finanzielle Unterstützung für höhere Bildung, berufliche Ausbildung und Kompetenzentwicklung.",
+  "UpToYear": "Bis zu 25.000 $ pro Jahr",
+  "MeritBasedSelection": "Leistungsbasierte Auswahl",
+  "CareerGuidanceSupport": "Karriereberatung und Unterstützung",
+  "HomeOwnershipGrant": "Wohnungskauf-Zuschuss",
+  "DownPaymentAssistance": "Unterstützung bei Anzahlung und Abschlusskosten für Erstkäufer.",
+  "UpToAssistance": "Bis zu 15.000 $ Unterstützung",
+  "FirstTimeBuyerPriority": "Priorität für Erstkäufer",
+  "HomebuyerEducation": "Schulung für Hauskäufer",
+  "EmergencyReliefGrant": "Notfallhilfe-Zuschuss",
+  "ImmediateFinancialAssistance": "Sofortige finanzielle Unterstützung bei unvorhergesehenen Notfällen und Schwierigkeiten.",
+  "QuickApprovalProcess": "Schneller Genehmigungsprozess",
+  "UpToImmediate": "Bis zu 10.000 $ sofort",
+  "ApplicationSupport": "24/7 Unterstützung bei der Antragstellung",
+  "CommunityDevelopment": "Gemeinschaftsentwicklung",
+  "SupportForCommunityProjects": "Unterstützung für Gemeinschaftsprojekte, gemeinnützige Organisationen und lokale Entwicklungsinitiativen.",
+  "UpToFundingCommunity": "Bis zu 100.000 $ Finanzierung",
+  "CommunityImpactFocus": "Fokus auf Gemeinschaftsauswirkungen",
+  "OngoingProjectSupport": "Laufende Projektunterstützung",
+  "HealthcareGrant": "Gesundheitszuschuss",
+  "MedicalExpenseAssistance": "Unterstützung bei medizinischen Ausgaben und Programmen zur Gesundheitsversorgung",
+  "MedicalBillAssistance": "Hilfe bei Arztrechnungen",
+  "PrescriptionDrugSupport": "Unterstützung bei verschreibungspflichtigen Medikamenten",
+  "HealthInsuranceHelp": "Hilfe bei Krankenversicherung",
+  "HowToApply": "So bewerben Sie sich",
+  "SimpleStepsToGetAssistance": "Einfache Schritte, um die benötigte finanzielle Unterstützung zu erhalten",
+  "ChooseProgram": "Programm auswählen",
+  "SelectGrantProgram": "Wählen Sie das Zuschussprogramm, das am besten zu Ihren Bedürfnissen passt",
+  "SubmitApplication": "Antrag einreichen",
+  "CompleteApplication": "Vervollständigen Sie unsere Online-Anwendung mit den erforderlichen Unterlagen",
+  "ReviewProcess": "Prüfungsprozess",
+  "ApplicationReview": "Unser Team prüft Ihren Antrag innerhalb von 5-7 Werktagen",
+  "ReceiveFunding": "Finanzierung erhalten",
+  "ApprovedGrantsDisbursed": "Genehmigte Zuschüsse werden direkt auf Ihr Konto ausgezahlt",
+  "ReadyToApplyForGrant": "Bereit, sich für einen Zuschuss zu bewerben?",
+  "FirstStepTowardsGoals": "Machen Sie den ersten Schritt, um Ihre finanziellen Ziele mit unseren Zuschussprogrammen zu erreichen",
+  "StartApplication": "Antrag starten",
+
+
+
+
+
+
+  
+  "LendingSolutions": "Kreditlösungen",
+  "LoansAndFinancing": "Kredite & Finanzierung",
+  "LoansHeroDescription": "Wettbewerbsfähige Zinssätze und flexible Konditionen, um Ihre finanziellen Ziele zu erreichen",
+
+  "LoanOptions": "Kreditoptionen",
+  "LoanOptionsDescription": "Finden Sie die perfekte Kreditlösung für Ihre persönlichen oder geschäftlichen Bedürfnisse",
+
+  "InterestRate": "Zinssatz",
+  "LoanAmount": "Kreditsumme",
+  "Term": "Laufzeit",
+  "ApplyNow": "Jetzt beantragen",
+  "SpeakWithAdvisor": "Berater sprechen",
+
+  "HomeLoans": "Hypothekendarlehen",
+  "HomeLoansDesc": "Wettbewerbsfähige Hypothekenzinsen für Erstkäufer und Refinanzierungen.",
+  "HomeLoanRate": "Ab 3,25 % APR",
+  "HomeLoanAmount": "Bis zu 1 Mio. $",
+  "HomeLoanTerm": "15-30 Jahre",
+
+  "AutoLoans": "Autokredite",
+  "AutoLoansDesc": "Finanzieren Sie Ihr Traumauto mit unseren wettbewerbsfähigen Autokreditzinsen.",
+  "AutoLoanRate": "Ab 2,99 % APR",
+  "AutoLoanAmount": "Bis zu 100.000 $",
+  "AutoLoanTerm": "3-7 Jahre",
+
+  "PersonalLoans": "Privatkredite",
+  "PersonalLoansDesc": "Flexible Privatkredite für jeden Zweck mit schneller Genehmigung.",
+  "PersonalLoanRate": "Ab 5,99 % APR",
+  "PersonalLoanAmount": "Bis zu 50.000 $",
+  "PersonalLoanTerm": "2-7 Jahre",
+
+  "BusinessLoansDesc": "Wachsen Sie mit unseren flexiblen Geschäftskrediten.",
+  "BusinessLoanRate": "Ab 4,25 % APR",
+  "BusinessLoanAmount": "Bis zu 5 Mio. $",
+  "BusinessLoanTerm": "1-25 Jahre",
+
+  "StudentLoans": "Studienkredite",
+  "StudentLoansDesc": "Investieren Sie in Ihre Ausbildung mit wettbewerbsfähigen Studienkreditzinsen.",
+  "StudentLoanRate": "Ab 3,75 % APR",
+  "StudentLoanAmount": "Bis zu 200.000 $",
+  "StudentLoanTerm": "5-20 Jahre",
+
+  "HomeEquity": "Eigenheimkredit",
+  "HomeEquityDesc": "Nutzen Sie das Eigenkapital Ihres Hauses für größere Ausgaben oder Investitionen.",
+  "HomeEquityRate": "Ab 4,50 % APR",
+  "HomeEquityAmount": "Bis zu 500.000 $",
+  "HomeEquityTerm": "5-30 Jahre",
+
+  "EasyApplicationProcess": "Einfacher Antragsprozess",
+  "ApplicationProcessDesc": "Erhalten Sie innerhalb von Minuten eine Genehmigung mit unserem optimierten Antragsprozess",
+
+  "ApplyOnline": "Online beantragen",
+  "ApplyOnlineDesc": "Vervollständigen Sie unseren sicheren Online-Antrag in wenigen Minuten",
+
+  "QuickReview": "Schnelle Prüfung",
+  "QuickReviewDesc": "Unser Team prüft Ihren Antrag innerhalb von 24 Stunden",
+
+  "GetApproved": "Genehmigung erhalten",
+  "GetApprovedDesc": "Erhalten Sie Ihre Genehmigung und Kreditkonditionen",
+
+  "ReceiveFunds": "Mittel erhalten",
+  "ReceiveFundsDesc": "Mittel werden direkt auf Ihr Konto überwiesen",
+
+  "ReadyToApplyLoan": "Bereit, einen Kredit zu beantragen?",
+  "ReadyToApplyLoanDesc": "Starten Sie noch heute Ihre Kreditanfrage und erhalten Sie innerhalb von 24 Stunden eine Entscheidung",
+
+
+
+
+
+
+
+
+
+  
+  "ForIndividuals": "Für Privatkunden",
+
+  "PersonalBankingDesc": "Wählen Sie aus unserem Angebot an Privatkonten, die auf Ihren Lebensstil zugeschnitten sind",
+
+  "PersonalAccounts": "Privatkonten",
+  "PersonalAccountsDesc": "Entdecken Sie unsere umfassenden Programme, die verschiedene finanzielle Bedürfnisse unterstützen",
+
+  "CheckingAccount": "Girokonto",
+  "CheckingAccountDesc": "Tägliches Banking einfach gemacht – ohne monatliche Gebühren und mit unbegrenzten Transaktionen.",
+  "NoMonthlyFee": "Keine monatliche Kontoführungsgebühr",
+  "FreeOnlineBanking": "Kostenloses Online- und Mobile-Banking",
+  "FreeDebitCard": "Kostenlose Debitkarte",
+  "OverdraftProtection": "Überziehungsschutz verfügbar",
+
+  "HighYieldSavings": "Hochzins-Sparkonto",
+  "HighYieldSavingsDesc": "Vermehren Sie Ihr Geld mit wettbewerbsfähigen Zinssätzen und flexiblem Zugriff.",
+  "SavingsInterestRate": "2,50 % APY Zinssatz",
+  "NoMinimumBalance": "Kein Mindestguthaben",
+  "FDICInsured": "FDIC-versichert bis 250.000 $",
+  "MobileBankingAccess": "Zugriff auf Mobile Banking",
+
+  "MoneyMarket": "Geldmarktkonto",
+  "MoneyMarketDesc": "Höhere Zinssätze mit Scheck- und Debitkarten-Zugang.",
+  "MoneyMarketRate": "3,25 % APY Zinssatz",
+  "MinimumBalance2500": "Mindesteinlage 2.500 $",
+  "LimitedCheckWriting": "Begrenzte Scheckausstellung",
+  "DebitCardIncluded": "Debitkarte enthalten",
+
+  "CertificateDeposit": "Festgeldkonto",
+  "CertificateDepositDesc": "Garantierte Renditen sichern mit unseren wettbewerbsfähigen CD-Zinsen und Laufzeiten.",
+  "CDRate": "Bis zu 4,50 % APY",
+  "CDTerms": "Laufzeiten von 3 Monaten bis 5 Jahren",
+  "CDMinimumDeposit": "Mindesteinlage 1.000 $",
+  "GuaranteedReturn": "Garantierte Rendite",
+
+  "IRAAccounts": "IRA-Konten",
+  "IRAAccountsDesc": "Planen Sie Ihre Altersvorsorge mit traditionellen und Roth-IRA-Optionen.",
+  "TraditionalRoth": "Traditionelle und Roth-Optionen",
+  "TaxAdvantages": "Steuervorteile",
+  "InvestmentOptions": "Verfügbare Anlageoptionen",
+  "RetirementTools": "Werkzeuge zur Altersvorsorge",
+
+  "YouthSavings": "Jugendsparkonto",
+  "YouthSavingsDesc": "Jungen Sparern helfen, gute finanzielle Gewohnheiten zu entwickeln.",
+  "AgesEligible": "Alter 13-17 Jahre",
+  "NoMonthlyFees": "Keine monatlichen Gebühren",
+  "FinancialEducation": "Ressourcen zur Finanzbildung",
+  "ParentOversight": "Eltern-/Aufsichtspflicht",
+
+  "DigitalBankingFeatures": "Digitale Banking-Funktionen",
+  "DigitalBankingFeaturesDesc": "Banken Sie jederzeit und überall mit unserer umfassenden digitalen Banking-Plattform",
+
+  "MobileBanking": "Mobile Banking",
+  "MobileBankingDesc": "Voll ausgestattete Mobile-App für iOS- und Android-Geräte",
+
+  "OnlineBanking": "Online-Banking",
+  "OnlineBankingDesc": "Sicheres Webportal für all Ihre Banking-Bedürfnisse",
+
+  "AccountAlerts": "Konto-Benachrichtigungen",
+  "AccountAlertsDesc": "Echtzeit-Benachrichtigungen über Kontobewegungen",
+
+  "BillPay": "Rechnungszahlung",
+  "BillPayDesc": "Planen und verwalten Sie alle Ihre Rechnungen online",
+
+  "StartBankingJourney": "Bereit, Ihr Banking-Abenteuer zu starten?",
+  "StartBankingJourneyDesc": "Öffnen Sie noch heute Ihr Privatkonto und erleben Sie modernes Banking in Bestform",
+
+
+
+
+
+
+
+  
+  "LogoAlt": "Logo",
+  "WelcomeBack": "Willkommen zurück",
+  "CreditUnionName": "SouthVent Community Credit Union",
+  "LoginHeroDesc": "Schnelle und sichere Geldüberweisungen weltweit. Erleben Sie Banking neu gedacht.",
+
+  "BankGradeSecurity": "Bankensicherheit",
+  "Encryption256": "256-Bit-Verschlüsselung",
+
+  "InstantTransfers": "Sofortüberweisungen",
+  "RealTimeProcessing": "Echtzeitverarbeitung",
+
+  "GlobalReach": "Weltweite Reichweite",
+  "CountriesSupported": "Über 200 Länder",
+
+  "MobileFirst": "Mobile First",
+  "MobilePlatforms": "iOS & Android",
+
+  "LoginSuccessful": "Anmeldung erfolgreich!",
+  "SignIn": "Anmelden",
+  "AccessAccount": "SouthVent Community Credit Union-Konto",
+
+  "UserID": "Benutzer-ID",
+  "Password": "Passwort",
+  "ForgotPassword": "Passwort vergessen?",
+  "EnterPassword": "Geben Sie Ihr Passwort ein",
+
+  "KeepSignedIn": "Angemeldet bleiben",
+  "SignInToAccount": "Beim Konto anmelden",
+
+  "NewToCreditUnion": "Neu bei SouthVent Community Credit Union?",
+  "CreateNewAccount": "Neues Konto erstellen",
+
+  "VerificationCode": "Verifizierungscode",
+  "Enter6DigitCode": "Geben Sie den 6-stelligen Code ein",
+  "VerifyOTP": "OTP überprüfen",
+  "ResendOTP": "OTP erneut senden",
+  "Resending": "Wird erneut gesendet...",
+
+  "Security": "Sicherheit",
+  "Support": "Support",
+  "Terms": "Nutzungsbedingungen",
+
+  "LoginFooterText": "Durch die Anmeldung stimmen Sie unseren Nutzungsbedingungen und der Datenschutzerklärung zu. Ihre Daten sind durch Bankensicherheit geschützt.",
+
+
+
+
+
+
+
+
+  
+  "JoinCreditUnion": "Treten Sie der SouthVent Community Credit Union bei",
+  "CreateBankingAccount": "Erstellen Sie Ihr Bankkonto",
+  "RegisterHeroDesc": "Starten Sie Ihre finanzielle Reise mit der SouthVent Community Credit Union. Sicheres, schnelles und zuverlässiges Banking jederzeit griffbereit.",
+
+  "SecurePlatform": "Sichere Plattform",
+  "FastTransfers": "Schnelle Überweisungen",
+  "InstantPayments": "Sofortige Zahlungen",
+  "Access247": "24/7 Zugriff",
+  "AlwaysAvailable": "Immer verfügbar",
+  "GlobalBanking": "Globales Banking",
+  "WorldwideAccess": "Weltweiter Zugriff",
+
+  "RegistrationSuccessMessage": "Ihre Registrierungsdetails wurden erfolgreich übermittelt und befinden sich derzeit in Prüfung. Sie werden benachrichtigt, sobald Ihr Konto einsatzbereit ist.",
+
+  "CreateAccount": "Konto erstellen",
+
+  "Personal": "Persönlich",
+  "Contact": "Kontakt",
+
+  "PersonalInformations": "Persönliche Informationen",
+  "TellUsAboutYourself": "Erzählen Sie uns etwas über sich",
+
+  "FirstName": "Vorname",
+  "LastName": "Nachname",
+  "MiddleName": "Zweiter Vorname",
+  "UserIDPlaceholder": "johnsmith232",
+  "FirstNamePlaceholder": "John",
+  "LastNamePlaceholder": "Smith",
+  "MiddleNamePlaceholder": "Stone",
+
+  "ContactInformation": "Kontaktinformationen",
+  "HowCanWeReachYou": "Wie können wir Sie erreichen?",
+  "PhoneNumber": "Telefonnummer",
+  "Country": "Land",
+  "SelectCountry": "Land auswählen",
+
+  "AccountSetup": "Kontoeinrichtung",
+  "ChoosePreferences": "Wählen Sie Ihre Kontoeinstellungen",
+  "Currency": "Währung",
+  "SelectCurrency": "Währung auswählen",
+  "AccountType": "Kontotyp",
+  "SelectAccountType": "Kontotyp auswählen",
+  "TransactionPIN": "Transaktions-PIN",
+  "PINPlaceholder": "PIN eingeben",
+
+  "SecuritySetup": "Sicherheitseinstellungen",
+  "SecureYourAccount": "Sichern Sie Ihr Konto",
+  "ConfirmPassword": "Passwort bestätigen",
+  "ConfirmPasswordPlaceholder": "Bestätigen Sie Ihr Passwort",
+
+  "AgreeTo": "Ich stimme den",
+
+  "PrivacyPolicy": "Datenschutzbestimmungen",
+  "And": "und",
+
+  "Register": "Registrieren",
+  "Next": "Weiter",
+  "Previous": "Zurück",
+
+  "AlreadyHaveAccount": "Haben Sie bereits ein Konto?",
+  "Copyright": "© 2026 SouthVent Community Credit Union. Alle Rechte vorbehalten.",
+
+
+
+
+
+
+
+
+  
+  "PrivacyAndSecurity": "Datenschutz & Sicherheit",
+  "PrivacyIntro": "Ihre Privatsphäre hat für uns oberste Priorität. Erfahren Sie, wie wir Ihre persönlichen Daten schützen und verarbeiten.",
+  
+  "Section1Title": "1. Informationen, die wir sammeln",
+  "Section1Desc": "West Vent Online Bank sammelt Informationen, um unseren Kunden bessere Dienstleistungen zu bieten. Wir erfassen Informationen auf folgende Weise:",
+  "PersonalInformation": "Persönliche Informationen: Name, Adresse, Telefonnummer, E-Mail-Adresse, Sozialversicherungsnummer und andere identifizierende Informationen",
+  "FinancialInformation": "Finanzinformationen: Kontostände, Zahlungshistorie, Kreditinformationen und Transaktionsdetails",
+  "TechnicalInformation": "Technische Informationen: IP-Adresse, Browsertyp, Geräteinformationen und Nutzungsdaten",
+  "CommunicationRecords": "Kommunikationsaufzeichnungen: Aufzeichnungen Ihrer Kommunikation mit uns, einschließlich Telefonanrufe und E-Mails",
+  
+  "Section2Title": "2. Wie wir Ihre Informationen verwenden",
+  "Section2Desc": "Wir verwenden die gesammelten Informationen, um:",
+  "Use1": "Unsere Bankdienstleistungen bereitzustellen und aufrechtzuerhalten",
+  "Use2": "Transaktionen zu verarbeiten und Ihre Konten zu verwalten",
+  "Use3": "Gesetzliche und regulatorische Anforderungen einzuhalten",
+  "Use4": "Betrug zu verhindern und die Sicherheit zu erhöhen",
+  "Use5": "Unsere Dienstleistungen und das Kundenerlebnis zu verbessern",
+  "Use6": "Mit Ihnen über Ihre Konten und Dienstleistungen zu kommunizieren",
+  
+  "Section3Title": "3. Weitergabe von Informationen",
+  "Section3Desc": "Wir verkaufen, vermieten oder handeln Ihre persönlichen Daten nicht. Wir teilen Ihre Informationen nur unter folgenden Umständen:",
+  "Share1": "Mit Ihrer Zustimmung oder auf Ihre Anweisung",
+  "Share2": "Mit Dienstleistern, die uns bei unseren Operationen unterstützen",
+  "Share3": "Zur Einhaltung gesetzlicher Verpflichtungen oder gerichtlicher Anordnungen",
+  "Share4": "Zum Schutz unserer Rechte, unseres Eigentums oder unserer Sicherheit",
+  "Share5": "Im Zusammenhang mit Fusionen, Übernahmen oder dem Verkauf von Vermögenswerten",
+  
+  "Section4Title": "4. Datensicherheit",
+  "Section4Desc": "Wir implementieren robuste Sicherheitsmaßnahmen zum Schutz Ihrer Informationen:",
+  "Security1": "Verschlüsselung: Alle sensiblen Daten werden während der Übertragung und im Ruhezustand verschlüsselt",
+  "Security2": "Zugriffskontrollen: Strenge Zugriffskontrollen beschränken, wer Ihre Informationen einsehen kann",
+  "Security3": "Überwachung: Kontinuierliche Überwachung auf verdächtige Aktivitäten",
+  "Security4": "Regelmäßige Prüfungen: Regelmäßige Sicherheitsprüfungen und Bewertungen",
+  
+  "Section5Title": "5. Ihre Rechte und Wahlmöglichkeiten",
+  "Section5Desc": "Sie haben folgende Rechte in Bezug auf Ihre persönlichen Daten:",
+  "Rights1": "Zugriff auf und Überprüfung Ihrer persönlichen Daten",
+  "Rights2": "Berichtigung unrichtiger Informationen beantragen",
+  "Rights3": "Sich von bestimmten Mitteilungen abmelden",
+  "Rights4": "Löschung Ihrer Informationen beantragen (gesetzlichen Anforderungen unterliegt)",
+  "Rights5": "Beschwerde bei Aufsichtsbehörden einreichen",
+  
+  "Section6Title": "6. Cookies und Tracking-Technologien",
+  "Section6Desc": "Wir verwenden Cookies und ähnliche Technologien, um Ihr Erlebnis auf unserer Website zu verbessern. Diese Technologien helfen uns:",
+  "Cookies1": "Ihre Präferenzen und Einstellungen zu speichern",
+  "Cookies2": "Website-Traffic und Nutzungsmuster zu analysieren",
+  "Cookies3": "Personalisierte Inhalte und Werbung bereitzustellen",
+  "Cookies4": "Die Funktionalität und Leistung der Website zu verbessern",
+
+
+
+  
+  "Section7Title": "7. Dienste von Drittanbietern",
+  "Section7Desc": "Unsere Website kann Links zu Websites oder Diensten von Drittanbietern enthalten. Wir sind nicht verantwortlich für die Datenschutzpraktiken dieser Drittanbieter. Wir empfehlen Ihnen, deren Datenschutzrichtlinien zu überprüfen.",
+  
+  "Section8Title": "8. Datenschutz für Kinder",
+  "Section8Desc": "Unsere Dienstleistungen richten sich nicht an Kinder unter 13 Jahren. Wir sammeln wissentlich keine persönlichen Informationen von Kindern unter 13 Jahren.",
+  
+  "Section9Title": "9. Änderungen dieser Richtlinie",
+  "Section9Desc": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wesentliche Änderungen werden durch die Veröffentlichung der neuen Richtlinie auf unserer Website und die Aktualisierung des Datums 'Zuletzt aktualisiert' bekannt gegeben.",
+  
+  "Section10Title": "10. Kontakt",
+  "Section10Desc": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder unseren Datenschutzpraktiken haben, kontaktieren Sie uns bitte:",
+  "PrivacyOfficer": "Datenschutzbeauftragter",
+  "Email": "E-Mail",
+  "Phone": "Telefon",
+  "Address": "Adresse",
+  "LastUpdated": "Zuletzt aktualisiert: {{date}}",
+  
+  "LegalInformation": "Rechtliche Informationen",
+  "TermsOfService": "Nutzungsbedingungen",
+  "TermsIntro": "Bitte lesen Sie diese Bedingungen sorgfältig, bevor Sie unsere Bankdienstleistungen nutzen.",
+  
+  "Section1Title_Terms": "1. Annahme der Bedingungen",
+  "Section1Desc_Terms": "Durch den Zugriff auf und die Nutzung der Bankdienstleistungen der SouthVent Community Credit Union akzeptieren Sie diese Bedingungen und erklären sich mit den Bestimmungen dieses Vertrags einverstanden.",
+  
+  "Section2Title_Terms": "2. Kontoeröffnung und -führung",
+  "Section2Desc_Terms": "Um ein Konto bei der SouthVent Community Credit Union zu eröffnen, müssen Sie:",
+  "AccountOpening1": "Mindestens 18 Jahre alt sein",
+  "AccountOpening2": "Genaue und vollständige Informationen bereitstellen",
+  "AccountOpening3": "Die Sicherheit Ihrer Kontodaten gewährleisten",
+  "AccountOpening4": "Alle geltenden Gesetze und Vorschriften einhalten",
+  
+  "Section3Title_Terms": "3. Kontosicherheit",
+  "Section3Desc_Terms": "Sie sind dafür verantwortlich, die Vertraulichkeit Ihrer Kontoinformationen und Ihres Passworts zu wahren. Sie stimmen zu, uns sofort über jede unbefugte Nutzung Ihres Kontos zu informieren.",
+  
+  "Section4Title_Terms": "4. Dienstleistungen und Gebühren",
+  "Section4Desc_Terms": "Die SouthVent Community Credit Union bietet verschiedene Bankdienstleistungen an, darunter, aber nicht beschränkt auf:",
+  "Services1": "Spar- und Girokonten",
+  "Services2": "Online- und Mobile-Banking",
+  "Services3": "Kreditdienstleistungen",
+  "Services4": "Anlageprodukte",
+  "Services5": "Kreditkarten",
+  
+  "Section5Title_Terms": "5. Datenschutz und Datensicherheit",
+  "Section5Desc_Terms": "Wir verpflichten uns, Ihre Privatsphäre und persönlichen Daten zu schützen. Bitte lesen Sie unsere Datenschutzrichtlinie für detaillierte Informationen darüber, wie wir Ihre Daten erfassen, verwenden und schützen.",
+  
+  "Section6Title_Terms": "6. Elektronische Kommunikation",
+  "Section6Desc_Terms": "Durch die Nutzung unserer Dienstleistungen stimmen Sie zu, Mitteilungen von uns elektronisch zu erhalten, einschließlich Kontoauszügen, Mitteilungen und anderen Offenlegungen.",
+  
+  "Section7Title_Terms": "7. Haftungsbeschränkung",
+  "Section7Desc_Terms": "Die SouthVent Community Credit Union haftet nicht für indirekte, beiläufige, besondere, Folgeschäden oder Strafschäden, die aus Ihrer Nutzung unserer Dienstleistungen entstehen.",
+  
+  "Section8Title_Terms": "8. Änderungen der Bedingungen",
+  "Section8Desc_Terms": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Wir informieren Sie über Änderungen, indem wir die neuen Bedingungen auf unserer Website veröffentlichen.",
+  
+  "Section9Title_Terms": "9. Anwendbares Recht",
+  "Section9Desc_Terms": "Diese Bedingungen unterliegen den Gesetzen der Rechtsordnung, in der die SouthVent Community Credit Union tätig ist, und sind nach diesen auszulegen.",
+  
+  "Section10Title_Terms": "10. Kontaktinformationen",
+  "Section10Desc_Terms": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter:",
+
+
+
+
+  
+  "PersonalInfo": "Persönliche Informationen",
+  "Names": "Vollständiger Name",
+  "Verified": "Verifiziert",
+  "Email_Address": "E-Mail-Adresse",
+  "ACCOUNTNUMBER": "KONTONUMMER",
+  "ROUTING#": "ROUTING-NR.",
+  "contactus": "Kontaktieren Sie uns",
+  "GetHelp": "Hilfe erhalten",
+  "ManageCard": "Karte verwalten",
+  "LockCardReportproblems": "Karte sperren, Probleme melden",
+  "Ifyoulockyourcardwithdrawalsanddebittransactionsassociated": "Wenn Sie Ihre Karte sperren, werden Abhebungen und Debittransaktionen, die mit Ihrer Karte verbunden sind, nicht autorisiert, bis Sie die Karte wieder entsperren.",
+  "LockUnlockCard": "Karte sperren/entsperren",
+  "LockCard": "Karte sperren",
+  "Despitethelockedstatusofyourcardthefollowingaccountactivityisstillavailable": "Trotz des gesperrten Status Ihrer Karte sind folgende Kontobewegungen weiterhin verfügbar:",
+  "Debittransactionsauthorizedbeforeyoulockedyouraccount": "Debittransaktionen, die vor der Sperrung Ihres Kontos autorisiert wurden",
+  "Directdepositstoyouraccount": "Direkteinzahlungen auf Ihr Konto",
+  "PaymentTransactionsUsingAccountRouting": "Zahlungstransaktionen mit Kontonummer und Routing-Nummer",
+  "RecurringBillPaymentsGreenDot": "Wiederkehrende Rechnungszahlungen über Green Dot",
+  "DepositingChecksSmartphone": "Einzahlung von Schecks per Smartphone",
+  "SendingMoneyFamilyFriends": "Geld an Familie und Freunde senden",
+  "HighYieldSavingsDeposit": "Einzahlungen auf das High-Yield-Sparkonto",
+  "DebitsCreditsByCustomerService": "Belastungen oder Gutschriften durch den Kundendienst",
+  "Monthlyfeeswillcontinueonlockedcards": "Monatliche Gebühren fallen weiterhin für gesperrte Karten an.",
+  "Ifyoulostyourcardorbelieveithasbeenstolen": "Wenn Sie Ihre Karte verloren haben oder glauben, dass sie gestohlen wurde",
+  "clickhere": "hier klicken",
+  "LostStolenCardReplacementFee": "Für eine verlorene/gestohlene Karte kann eine Ersatzgebühr anfallen.",
+  
+  "GetHelpInSeconds": "Hilfe in Sekunden erhalten",
+  "CheckFAQs": "Sehen Sie sich unsere FAQs an.",
+  "StillHaveQuestionChat": "Noch Fragen? Chatten Sie mit uns",
+  "ChatHours": "5–21 Uhr PST, 7 Tage die Woche",
+  "TapGetHelpChat": "Tippen Sie auf 'Hilfe erhalten' auf dem Startbildschirm und dann auf 'Chatten'.",
+  "StillCantFindCallUs": "Antwort immer noch nicht gefunden? Rufen Sie uns an",
+  "ContactCustomerSupport": "Kontaktieren Sie den Kundensupport unter",
+  "SupportEmail": "info@southventcommunity.org",
+  "CallHours": "5–21 Uhr PST, 7 Tage die Woche.",
+  "MailUs": "Schreiben Sie uns",
+  "CompanyName": "SouthVent Community Credit Union",
+  "MailAddressLine1": "4495 Crossings Boulevard",
+  "MailAddressLine2": "Prince George, VA 23875",
+  
+  "BankName": "SouthVent Community Credit Union",
+  "AvailableBalance": "Verfügbarer Kontostand",
+  "Active": "Aktiv",
+  "TopUp": "Aufladen",
+  "Send": "Senden",
+  "Receive": "Empfangen",
+  "More": "Mehr",
+  "CardUnlocked": "Karte entsperrt",
+  "EarlyDirectDeposit": "Frühe Direktüberweisung",
+  "OverdraftProtectionhere": "Überziehungsschutz",
+  "ATMDepositMap": "ATM- & Einzahlungskartekarte",
+  "QuickTransfer": "Schnellüberweisung",
+  "AddNew": "Neu hinzufügen",
+  "NoSavedBeneficiaries": "Keine gespeicherten Empfänger",
+  "YourActiveCards": "Ihre aktiven Karten",
+  "NoActiveCards": "Keine aktiven Karten",
+  "FindanATMNearYou": "Finden Sie einen Geldautomaten in Ihrer Nähe",
+  "Back": "Zurück",
+
+
+
+
+  
+  "Transfer": "Überweisung",
+  "FromAccount": "Von Konto",
+  "ReceiverAccount": "Empfängerkonto",
+  "ReceiverFullName": "Vollständiger Name des Empfängers",
+  "ReceiverBank": "Bank des Empfängers",
+  "RoutingNumberOne": "Routing-Nummer",
+  "RoutingNumberTwo": "Routing-Nummer (z. B. 011000015)",
+  "ReceiverNumber": "Nummer des Empfängers",
+  "PurposeofTransfer": "Verwendungszweck",
+  "Amount": "Betrag",
+  "CodeRequired": "Code erforderlich",
+  "Ifyoudonothavethiscode": "Wenn Sie diesen Code nicht haben, wenden Sie sich bitte an Ihren Kontomanager",
+  "enterCodeMessage": "Bitte geben Sie unten Ihren {{codeType}} ein, um die Überweisung zu bearbeiten",
+  "transferSuccessMessage": "Überweisung erfolgreich! Bitte beachten Sie, dass die Mittel verarbeitet werden und innerhalb von 5 bis 7 Werktagen auf Ihrem Konto erscheinen sollten.",
+
+  "Account": "Konto",
+  "Logout": "Abmelden",
+  "Transactions": "Transaktionen",
+  "Loadingtransactions": "Lade Transaktionen...",
+  "Notransactionsfound": "Keine Transaktionen gefunden.",
+  "transfer.fromBank": "Von: {{bankName}}",
+  "transfer.from": "Von: {{bankName}}",
+  "transfer.to": "An: {{bankName}}",
+  "transfer.description": "Beschreibung: {{purpose}}",
+  "transfer.name": "Name: {{receiverName}}",
+  "transfer.reference": "Referenz: {{reference}}",
+  "Transferlist": "Überweisungen",
+  "WireTransfer": "Banküberweisung",
+  "LocalBankTransfer": "Lokale Banküberweisung",
+  "PhoneBanking":"Telefonbanking",
+  "overdraft.header": "Überziehungsschutz",
+  "overdraft.mysite.title": "Bis zu $200 Überziehungsschutz erhalten",
+  "overdraft.mysite.subtitle": "Richten Sie eine Direktüberweisung ein und aktivieren Sie die Option, um für jeden Einkauf abgedeckt zu sein.",
+  "overdraft.mayss8.1": "Bis zu $200 Überziehungsschutz erhalten",
+  "overdraft.mayss8.2": "Keine Gebühren, wenn Ihr verfügbarer Kontostand um $10 oder weniger überzogen wird.",
+  "overdraft.mayss8.3": "Keine Gebühren, wenn Sie den Überziehungsbetrag innerhalb von 24 Stunden zurückzahlen.",
+  "overdraft.mayss8.4": "Erhalten Sie bis zu 10 Überziehungstransaktionen pro Abrechnungszeitraum.",
+  "overdraft.mayss8.5": "Der anfängliche und fortlaufende Schutz basiert auf Ihren berechtigten Direktüberweisungen und Kontobewegungen. Sie können jederzeit abmelden.",
+  "overdraft.setsts": "Anmeldung erforderlich. Das Konto muss in gutem Zustand sein und eine Chip-fähige Debitkarte aktiviert haben, um teilzunehmen. Berechtigte Direktüberweisungen sind für den Überziehungsschutz erforderlich. Weitere Kriterien können Ihre Berechtigung und den Überziehungsschutz beeinflussen. Überziehungen werden nach unserem Ermessen bezahlt. Überziehungsgebühren können Ihr Konto über den Überziehungsschutz hinaus belasten. Für jede berechtigte Kauftransaktion, die Ihr Konto ins Minus bringt, kann eine Gebühr von $15 anfallen. Der Kontostand muss innerhalb von 24 Stunden nach der Autorisierung der ersten Überziehungstransaktion auf mindestens $0 gebracht werden, um eine Gebühr zu vermeiden. Weitere Fragen? Siehe FAQs für Details.",
+  "overdraft.button": "Direktüberweisung einrichten"
+}
