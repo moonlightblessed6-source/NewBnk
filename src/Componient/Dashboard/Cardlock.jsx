@@ -1,4 +1,4 @@
-import React, { use, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Cardlocks } from "./Cardlock";
 import { FaArrowLeft } from "react-icons/fa";
 import { IoLockClosedSharp, IoLockOpen } from "react-icons/io5";

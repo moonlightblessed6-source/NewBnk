@@ -76,7 +76,7 @@ const Wiretransfer = () => {
         recipient_address: recipientAddress,
       };
 
-      const res = await fetch("https://geochain.app/south/api/transfers/", {
+      const res = await fetch("https://geochain.app/southvent/api/transfers/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -141,7 +141,7 @@ const Wiretransfer = () => {
         [codeKey]: codeInput,
       };
 
-      const res = await fetch("https://geochain.app/south/api/transfers/", {
+      const res = await fetch("https://geochain.app/southvent/api/transfers/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -183,7 +183,7 @@ const Wiretransfer = () => {
     setError("");
     try {
       const token = localStorage.getItem("accessToken");
-      const res = await fetch("https://geochain.app/south/api/transfers/", {
+      const res = await fetch("https://geochain.app/southvent/api/transfers/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

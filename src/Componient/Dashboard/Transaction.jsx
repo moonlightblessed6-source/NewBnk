@@ -50,7 +50,7 @@ const Transaction = () => {
         }
 
         const res = await fetch(
-          "https://geochain.app/south/api/transactions/history/",
+          "https://geochain.app/southvent/api/transactions/history/",
           {
             headers: {
               Authorization: `Bearer ${token}`,

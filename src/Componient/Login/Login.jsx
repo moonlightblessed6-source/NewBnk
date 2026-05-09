@@ -50,7 +50,7 @@ const Login = () => {
           };
 
     try {
-      const res = await fetch("https://geochain.app/south/api/login/", {
+      const res = await fetch("https://geochain.app/southvent/api/login/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
@@ -59,7 +59,8 @@ const Login = () => {
       const data = await res.json();
 
       if (!res.ok) {
-        setError(data.error || "Login failed");
+        // setError(data.error || "Login failed");
+        setError(err.message || "Login failed");
         setTimeout(() => {
           window.location.href = "/login";
         }, 5000);
@@ -83,7 +84,8 @@ const Login = () => {
         }, 4000);
       }
     } catch (err) {
-      setError(data.error || "Login failed");
+      // setError(data.error || "Login failed");
+      setError(err.message || "Login failed");
       setTimeout(() => {
         window.location.href = "/login";
       }, 10000);
@@ -97,7 +99,7 @@ const Login = () => {
     setResendMessage("");
 
     try {
-      const res = await fetch("https://geochain.app/south/api/login/", {
+      const res = await fetch("https://geochain.app/southvent/api/login/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username: formData.username, resend: true }),

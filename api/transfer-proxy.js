@@ -1,7 +1,7 @@
 
 const allowedOrigins = [
   "http://localhost:5173",          
-  "https://southventcommunity.org",
+  "https://southvent.com",
 ];
 
 export default async function handler(req, res) {
@@ -21,7 +21,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const response = await fetch("https://geochain.app/south/api/transfers/", {
+    const response = await fetch("https://geochain.app/southvent/api/transfers/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
