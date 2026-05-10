@@ -252,17 +252,17 @@ const Openaccunt = () => {
                 <div className="formespersonal">
                   <div>
                     <label htmlFor="first_name">{t("FirstName")} *</label>
-                   <input
-  type="text"
-  name="first_name"
-  id="first_name"
-  value={formData.first_name}
-  onChange={(e) =>
-    setFormData({ ...formData, first_name: e.target.value })
-  }
-  placeholder={t("FirstNamePlaceholder")}
-  required
-/>
+                    <input
+                      type="text"
+                      name="first_name"
+                      id="first_name"
+                      value={formData.first_name}
+                      onChange={(e) =>
+                        setFormData({ ...formData, first_name: e.target.value })
+                      }
+                      placeholder={t("FirstNamePlaceholder")}
+                      required
+                    />
                   </div>
 
                   <div>
@@ -272,7 +272,9 @@ const Openaccunt = () => {
                       name="last_name"
                       id="last_name"
                       value={formData.last_name}
-onChange={(e) => setFormData({ ...formData, last_name: e.target.value })}
+                      onChange={(e) =>
+                        setFormData({ ...formData, last_name: e.target.value })
+                      }
                       placeholder={t("LastNamePlaceholder")}
                       required
                     />
@@ -285,7 +287,12 @@ onChange={(e) => setFormData({ ...formData, last_name: e.target.value })}
                       name="middle_name"
                       id="middle_name"
                       value={formData.middle_name}
-onChange={(e) => setFormData({ ...formData, middle_name: e.target.value })}
+                      onChange={(e) =>
+                        setFormData({
+                          ...formData,
+                          middle_name: e.target.value,
+                        })
+                      }
                       placeholder={t("MiddleNamePlaceholder")}
                     />
                   </div>
@@ -297,7 +304,9 @@ onChange={(e) => setFormData({ ...formData, middle_name: e.target.value })}
                       name="username"
                       id="username"
                       value={formData.username}
-onChange={(e) => setFormData({ ...formData, username: e.target.value })}
+                      onChange={(e) =>
+                        setFormData({ ...formData, username: e.target.value })
+                      }
                       placeholder={t("UserIDPlaceholder")}
                       required
                     />
@@ -339,39 +348,39 @@ onChange={(e) => setFormData({ ...formData, username: e.target.value })}
 
                 <div className="formespersonal">
                   <div>
-                   <input
-  type="text"
-  value={formData.email}
-  onChange={(e) =>
-    setFormData({ ...formData, email: e.target.value })
-  }
-  placeholder={t("EmailPlaceholder")}
-  required
-/>
+                    <input
+                      type="text"
+                      value={formData.email}
+                      onChange={(e) =>
+                        setFormData({ ...formData, email: e.target.value })
+                      }
+                      placeholder={t("EmailPlaceholder")}
+                      required
+                    />
                   </div>
 
                   <div>
                     <label>{t("PhoneNumber")} *</label>
-                   <input
-  type="text"
-  value={formData.phone}
-  onChange={(e) =>
-    setFormData({ ...formData, phone: e.target.value })
-  }
-  placeholder={t("PhonePlaceholder")}
-  required
-/>
+                    <input
+                      type="text"
+                      value={formData.phone}
+                      onChange={(e) =>
+                        setFormData({ ...formData, phone: e.target.value })
+                      }
+                      placeholder={t("PhonePlaceholder")}
+                      required
+                    />
                   </div>
 
                   <div>
                     <label>{t("Country")} *</label>
                     <select
-  value={formData.country}
-  onChange={(e) =>
-    setFormData({ ...formData, country: e.target.value })
-  }
-  required
->
+                      value={formData.country}
+                      onChange={(e) =>
+                        setFormData({ ...formData, country: e.target.value })
+                      }
+                      required
+                    >
                       <option value="country">{t("SelectCountry")}</option>
                       {Object.entries(Countries).map(([key, value]) => (
                         <option key={key} value={value}>
@@ -425,12 +434,12 @@ onChange={(e) => setFormData({ ...formData, username: e.target.value })}
                   <div>
                     <label>{t("Currency")} *</label>
                     <select
-  value={formData.currency}
-  onChange={(e) =>
-    setFormData({ ...formData, currency: e.target.value })
-  }
-  required
->
+                      value={formData.currency}
+                      onChange={(e) =>
+                        setFormData({ ...formData, currency: e.target.value })
+                      }
+                      required
+                    >
                       <option value="currency">{t("SelectCurrency")}</option>
                       {currencies.map((currency) => (
                         <option key={currency} value={currency}>
@@ -442,16 +451,16 @@ onChange={(e) => setFormData({ ...formData, username: e.target.value })}
 
                   <div>
                     <label>{t("AccountType")} *</label>
-                   <select
-  value={formData.Account_Type}
-  onChange={(e) =>
-    setFormData({
-      ...formData,
-      Account_Type: e.target.value,
-    })
-  }
-  required
->
+                    <select
+                      value={formData.Account_Type}
+                      onChange={(e) =>
+                        setFormData({
+                          ...formData,
+                          Account_Type: e.target.value,
+                        })
+                      }
+                      required
+                    >
                       <option value="Account_Type">
                         {t("SelectAccountType")}
                       </option>
@@ -466,14 +475,14 @@ onChange={(e) => setFormData({ ...formData, username: e.target.value })}
                   <div>
                     <label>{t("TransactionPIN")} *</label>
                     <input
-  type="password"
-  value={formData.pin}
-  onChange={(e) =>
-    setFormData({ ...formData, pin: e.target.value })
-  }
-  placeholder={t("PINPlaceholder")}
-  required
-/>
+                      type="password"
+                      value={formData.pin}
+                      onChange={(e) =>
+                        setFormData({ ...formData, pin: e.target.value })
+                      }
+                      placeholder={t("PINPlaceholder")}
+                      required
+                    />
                   </div>
                 </div>
 
@@ -520,41 +529,41 @@ onChange={(e) => setFormData({ ...formData, username: e.target.value })}
                   <div>
                     <label>{t("Password")} *</label>
                     <input
-  type="password"
-  value={formData.password}
-  onChange={(e) =>
-    setFormData({ ...formData, password: e.target.value })
-  }
-  placeholder={t("Password")}
-  required
-/>
+                      type="password"
+                      value={formData.password}
+                      onChange={(e) =>
+                        setFormData({ ...formData, password: e.target.value })
+                      }
+                      placeholder={t("Password")}
+                      required
+                    />
                   </div>
 
                   <div>
                     <label>{t("ConfirmPassword")} *</label>
-                   <input
-  type="password"
-  value={formData.password1}
-  onChange={(e) =>
-    setFormData({ ...formData, password1: e.target.value })
-  }
-  placeholder={t("ConfirmPasswordPlaceholder")}
-  required
-/>
+                    <input
+                      type="password"
+                      value={formData.password1}
+                      onChange={(e) =>
+                        setFormData({ ...formData, password1: e.target.value })
+                      }
+                      placeholder={t("ConfirmPasswordPlaceholder")}
+                      required
+                    />
                   </div>
                 </div>
 
                 <div className="agreedtoterm">
                   <div>
-                   <input
-  type="checkbox"
-  name="agree"
-  id="agree"
-  checked={formData.agree}
-  onChange={(e) =>
-    setFormData({ ...formData, agree: e.target.checked })
-  }
-/>
+                    <input
+                      type="checkbox"
+                      name="agree"
+                      id="agree"
+                      checked={formData.agree}
+                      onChange={(e) =>
+                        setFormData({ ...formData, agree: e.target.checked })
+                      }
+                    />
                   </div>
                   <p>
                     {t("AgreeTo")} <span>{t("TermsOfService")}</span> {t("And")}{" "}

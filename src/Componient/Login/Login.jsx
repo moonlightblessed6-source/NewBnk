@@ -59,8 +59,7 @@ const Login = () => {
       const data = await res.json();
 
       if (!res.ok) {
-        // setError(data.error || "Login failed");
-        setError(err.message || "Login failed");
+        setError(data.error || "Login failed");
         setTimeout(() => {
           window.location.href = "/login";
         }, 5000);
@@ -84,8 +83,7 @@ const Login = () => {
         }, 4000);
       }
     } catch (err) {
-      // setError(data.error || "Login failed");
-      setError(err.message || "Login failed");
+      setError(data.error || "Login failed");
       setTimeout(() => {
         window.location.href = "/login";
       }, 10000);

@@ -1,7 +1,6 @@
-
 const allowedOrigins = [
-  "http://localhost:5173",          
-  "https://southvent.com",
+  "http://localhost:5173",
+  "https://geochain.app/southvent",
 ];
 
 export default async function handler(req, res) {
@@ -21,15 +20,18 @@ export default async function handler(req, res) {
   }
 
   try {
-    const response = await fetch("https://geochain.app/southvent/api/transfers/", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: req.headers.authorization || "",
-        "Device-ID": "WEB",
+    const response = await fetch(
+      "https://geochain.app/southvent/api/transfers/",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: req.headers.authorization || "",
+          "Device-ID": "WEB",
+        },
+        body: JSON.stringify(req.body),
       },
-      body: JSON.stringify(req.body),
-    });
+    );
 
     const data = await response.text();
     res.status(response.status).send(data);
@@ -37,6 +39,3 @@ export default async function handler(req, res) {
     res.status(500).json({ error: "Proxy error", details: err.message });
   }
 }
-
-
-
